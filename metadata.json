@@ -1,0 +1,6 @@
+{
+  "name": "生產產品異常處理與追蹤系統",
+  "description": "製造現場產品異常通報、派工追蹤、原因分析、製程改善、品質驗證與結案追蹤系統，包含歷史案例庫與 AI 輔助分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
